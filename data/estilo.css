@@ -1,0 +1,234 @@
+html{
+	background: black;
+}
+
+body{
+	background-image: url("../data/Fondo.gif");
+			background-repeat: no-repeat;
+			background-position: center;
+			background-attachment: cover;
+			background-attachment: cover;
+			background-image: center;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+}
+
+#grafico{
+	transform: scale(0.7);
+	margin-top: -600px;
+	margin-left: 12%;
+}
+
+#titulo{
+	font-family: Montserrat;
+	color: rgb(92, 45, 131);
+	font-size: 43px;
+	background: black;
+	margin-right: 50%;
+	margin-left: 2%;
+}
+
+#bajada{
+	margin-top: -1px;
+	font-family: Montserrat;
+	color: #888888;
+	font-size: 15px;
+	background: black;
+	margin-right: 80%;
+	margin-left: 2%;
+
+}
+
+h1{
+	font-family: Montserrat;
+	color: #888888;
+	font-size: 14px;
+	background: black;
+	margin-right: 84%;
+	margin-top: 40px;
+	margin-left: 1%;
+
+}
+
+h4{
+	font-family: Montserrat;
+	color: rgb(92, 45, 131);
+	font-size: 14px;
+	background: black;
+	margin-left: 44%;
+	width: 200px;
+	margin-top: -515px;
+	margin-bottom: 400px;
+	text-align: center;
+}
+
+p{
+	font-size: 11px;
+}
+
+#Re1{
+	margin-top: 10px;
+	font-family: Montserrat;
+	color: #8658a4;
+	background: black;
+}
+
+.R1{
+	margin-top: 5px;
+	margin-left: 1%;
+	font-family: Montserrat;
+	color: #888888;
+	background: black;
+	 width: 110px;
+
+}
+
+#Re2{
+	margin-top: 7px;
+	font-family: Montserrat;
+	color: #8658a4;
+	background: black;
+}
+
+.R2{
+	margin-left: 1%;
+	font-family: Montserrat;
+	color: #888888;
+	background: black;
+	 width: 110px;
+}
+
+#Re3{
+	margin-top: 7px;
+	font-family: Montserrat;
+	color: #8658a4;
+	background: black;
+}
+
+.R3{
+	margin-left: 1%;
+	font-family: Montserrat;
+	color: #888888;
+	background: black;
+	 width: 110px;
+}
+
+#Re4{
+	margin-top: 5px;
+	font-family: Montserrat;
+	color: #8658a4;
+	background: black;
+}
+
+.R4{
+	margin-left: 1%;
+	font-family: Montserrat;
+	color: #888888;
+	background: black;
+	 width: 110px;
+}
+
+#Re5{
+	margin-top: 6px;
+	font-family: Montserrat;
+	color: #8658a4;
+	background: black;
+}
+
+.R5{
+	
+	font-family: Montserrat;
+	color: #888888;
+	background: black;
+	 width: 110px;
+	margin-top: -400px;
+	margin-left: 9%;
+}
+
+#Re6{
+	margin-top: 3px;
+	font-family: Montserrat;
+	color: #8658a4;
+	background: black;
+}
+
+.R6{
+	font-family: Montserrat;
+	color: #888888;
+	background: black;
+	 width: 110px;
+	margin-left: 9%;
+}
+
+#Re7{
+	margin-top: 4px;
+	font-family: Montserrat;
+	color: #8658a4;
+	background: black;
+}
+
+.R7{
+	font-family: Montserrat;
+	color: #888888;
+	background: black;
+	 width: 110px;
+	margin-left: 9%;
+}
+
+#Re8{
+	margin-top: 4px;
+	font-family: Montserrat;
+	color: #8658a4;
+	background: black;
+}
+
+.R8{
+	font-family: Montserrat;
+	color: #888888;
+	background: black;
+	 width: 110px;
+	margin-left: 9%;
+}
+
+#Re9{
+	margin-top: 2px;
+	font-family: Montserrat;
+	color: #8658a4;
+	background: black;
+}
+
+.R9{
+	font-family: Montserrat;
+	color: #888888;
+	background: black;
+	 width: 110px;
+	margin-left: 9%;
+}
+
+footer{
+	font-family: Montserrat;
+	color: #888888;
+	font-size: 9px;
+	align-items: center;
+	background-color: rgba(124, 124, 124, 0.15);
+	text-align: center;
+	height: 100px;
+	padding: 5px;
+	padding-left: 22%;
+	padding-right: 22%;
+	padding-top: 25px;
+
+}
+
+#b{
+	font-family: Montserrat;
+	color: #a542b9;
+	text-decoration: none;
+}
+
+aside{
+	margin-left: 1%;
+}
+
